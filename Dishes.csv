@@ -1,0 +1,100 @@
+APPETIZER,Bruschetta,Tomatoes;Basil;Garlic;Bread,15,6.99,ITALIAN,PLATED;2;true
+APPETIZER,Spring Rolls,Cabbage;Carrots;Noodles;Rice Paper,20,5.99,ASIAN,BUFFET;3;true
+APPETIZER,Stuffed Mushrooms,Mushrooms;Cheese;Breadcrumbs;Garlic,25,7.49,ITALIAN,FAMILY_STYLE;2;false
+APPETIZER,Guacamole,Avocado;Onion;Tomato;Lime,10,6.49,MEXICAN,BUFFET;2;true
+APPETIZER,Samosas,Potatoes;Peas;Spices;Flour,30,5.49,INDIAN,PLATED;5;true
+APPETIZER,Buffalo Wings,Chicken;Hot Sauce;Butter;Celery,25,8.99,AMERICAN,FAMILY_STYLE;7;false
+APPETIZER,Garlic Bread,Baguette;Garlic;Butter;Parsley,10,4.99,ITALIAN,PLATED;1;true
+APPETIZER,Edamame,Soybeans;Sea Salt,5,3.99,JAPANESE,BUFFET;0;true
+APPETIZER,Falafel Balls,Chickpeas;Herbs;Spices;Flour,20,5.99,MEDITERRANEAN,FAMILY_STYLE;4;true
+APPETIZER,Brie en Croute,Brie Cheese;Puff Pastry;Jam;Nuts,35,9.99,FRENCH,PLATED;2;false
+APPETIZER,Antipasto Platter,Salami;Prosciutto;Cheeses;Olives,15,12.99,ITALIAN,BUFFET;1;false
+APPETIZER,Spinach Artichoke Dip,Spinach;Artichokes;Cheese;Cream,20,7.99,AMERICAN,FAMILY_STYLE;0;true
+APPETIZER,Caprese Skewers,Tomato;Mozzarella;Basil;Balsamic,10,5.99,ITALIAN,FAMILY_STYLE;0;true
+APPETIZER,Potstickers,Pork;Cabbage;Ginger;Dumpling Wrappers,25,6.99,CHINESE,PLATED;3;false
+APPETIZER,Empanadas,Beef;Onions;Olives;Dough,30,7.49,SOUTH AMERICAN,FAMILY_STYLE;4;false
+APPETIZER,Hummus Platter,Hummus;Pita Bread;Vegetables,15,5.99,MEDITERRANEAN,BUFFET;1;true
+APPETIZER,Nachos,Tortilla Chips;Cheddar;Jalapenos;Salsa,15,6.99,MEXICAN,BUFFET;6;false
+APPETIZER,Tzatziki with Pita,Yogurt;Cucumber;Garlic;Pita Bread,10,5.49,GREEK,BUFFET;1;true
+APPETIZER,Onion Rings,Onions;Flour;Breadcrumbs;Oil,15,4.49,AMERICAN,FAMILY_STYLE;3;true
+APPETIZER,Deviled Eggs,Eggs;Mayonnaise;Mustard;Paprika,15,4.99,AMERICAN,PLATED;0;true
+APPETIZER,Quesadillas,Tortilla;Cheese;Chicken;Peppers,15,6.99,MEXICAN,PLATED;5;false
+APPETIZER,Chicken Satay,Chicken;Peanut Sauce;Spices;Skewers,20,7.49,THAI,FAMILY_STYLE;4;false
+APPETIZER,Gyoza,Pork;Cabbage;Ginger;Wrappers,20,6.49,JAPANESE,PLATED;4;false
+APPETIZER,Garlic Knots,Dough;Garlic;Butter;Parsley,15,4.49,ITALIAN,FAMILY_STYLE;1;true
+APPETIZER,Fried Calamari,Calamari;Flour;Oil;Lemon,20,8.99,MEDITERRANEAN,PLATED;2;false
+APPETIZER,Baked Brie,Brie Cheese;Honey;Nuts;Crackers,25,9.49,FRENCH,FAMILY_STYLE;1;false
+APPETIZER,Mozzarella Sticks,Mozzarella;Breadcrumbs;Marinara Sauce,15,5.99,AMERICAN,PLATED;0;true
+APPETIZER,Chips and Salsa,Tortilla Chips;Tomato Salsa,5,3.99,MEXICAN,BUFFET;2;true
+APPETIZER,Baba Ganoush,Eggplant;Tahini;Garlic;Lemon Juice,15,5.99,MIDDLE EASTERN,BUFFET;1;true
+APPETIZER,Sausage Rolls,Puff Pastry;Sausage Meat;Herbs;Egg Wash,20,5.99,BRITISH,FAMILY_STYLE;1;false
+APPETIZER,Kimchi Pancakes,Kimchi;Flour;Eggs;Scallions,15,5.49,KOREAN,FAMILY_STYLE;5;true
+MAINCOURSE,Spaghetti Bolognese,Spaghetti;Ground Beef;Tomato Sauce;Onions,40,12.99,ITALIAN,BOILED;Beef;Garlic Bread:BREAD|Side Salad:SALAD;false
+MAINCOURSE,Vegetable Stir Fry,Broccoli;Carrots;Bell Peppers;Soy Sauce,25,11.49,CHINESE,FRIED;Tofu;Steamed Rice:GRAIN|Spring Rolls:VEGETABLE;true
+MAINCOURSE,Chicken Tikka Masala,Chicken;Tomato;Cream;Spices,45,13.99,INDIAN,GRILLED;Chicken;Naan Bread:BREAD|Basmati Rice:GRAIN;false
+MAINCOURSE,Beef Tacos,Beef;Taco Shells;Lettuce;Cheese,30,10.99,MEXICAN,FRIED;Beef;Refried Beans:LEGUME|Mexican Rice:GRAIN;false
+MAINCOURSE,Sushi Platter,Rice;Nori;Fish;Vegetables,50,18.99,JAPANESE,RAW;Fish;Miso Soup:SOUP|Edamame:VEGETABLE;false
+MAINCOURSE,Margherita Pizza,Dough;Tomato Sauce;Mozzarella;Basil,30,11.99,ITALIAN,BAKED;Cheese;Caesar Salad:SALAD|Garlic Knots:BREAD;false
+MAINCOURSE,Lamb Kebabs,Lamb;Spices;Yogurt;Skewers,35,15.49,MEDITERRANEAN,GRILLED;Lamb;Tabbouleh:SALAD|Pita Bread:BREAD;false
+MAINCOURSE,Grilled Portobello,Portobello Mushrooms;Herbs;Olive Oil;Garlic,25,12.49,VEGETARIAN,GRILLED;Mushrooms;Quinoa Salad:GRAIN|Roasted Vegetables:VEGETABLE;true
+MAINCOURSE,Fish and Chips,White Fish;Batter;Potatoes;Tartar Sauce,30,13.99,BRITISH,FRIED;Fish;Coleslaw:SALAD|Peas:VEGETABLE;false
+MAINCOURSE,Steak Frites,Steak;Potatoes;Herbs;Butter,40,19.99,FRENCH,GRILLED;Beef;Green Beans:VEGETABLE|Dinner Roll:BREAD;false
+MAINCOURSE,Pad Thai,Rice Noodles;Shrimp;Eggs;Peanuts,30,12.99,THAI,FRIED;Shrimp;Thai Salad:SALAD|Spring Roll:VEGETABLE;false
+MAINCOURSE,Burger and Fries,Beef Patty;Bun;Lettuce;Tomato,25,11.49,AMERICAN,GRILLED;Beef;French Fries:STARCHES|Pickle:VEGETABLE;false
+MAINCOURSE,Chili con Carne,Beef;Beans;Tomatoes;Spices,60,13.49,MEXICAN,BOILED;Beef;Cornbread:BREAD|Sour Cream:DRESSING;false
+MAINCOURSE,Seafood Paella,Rice;Shrimp;Mussels;Saffron,55,17.99,SPANISH,BAKED;Seafood;Bread Rolls:BREAD|Mixed Greens:SALAD;false
+MAINCOURSE,Vegetable Lasagna,Pasta;Tomato Sauce;Cheese;Vegetables,45,12.49,ITALIAN,BAKED;Cheese;Garlic Bread:BREAD|Side Salad:SALAD;false
+MAINCOURSE,Chicken Alfredo,Fettuccine;Chicken;Cream Sauce;Parmesan,35,13.99,ITALIAN,BOILED;Chicken;Breadsticks:BREAD|Caesar Salad:SALAD;false
+MAINCOURSE,Tofu Curry,Tofu;Tomato;Spices;Coconut Milk,35,11.99,INDIAN,BOILED;Tofu;Naan Bread:BREAD|Basmati Rice:GRAIN;true
+MAINCOURSE,Pulled Pork Sandwich,Pork;BBQ Sauce;Bun;Coleslaw,30,12.99,AMERICAN,SLOW_COOKED;Pork;French Fries:STARCHES|Pickle:VEGETABLE;false
+MAINCOURSE,Shakshuka,Eggs;Tomatoes;Spices;Onions,25,10.99,MIDDLE EASTERN,BAKED;Eggs;Pita Bread:BREAD|Hummus:LEGUME;true
+MAINCOURSE,Ramen,Noodles;Broth;Pork;Egg,40,13.49,JAPANESE,BOILED;Pork;Gyoza:PASTA|Seaweed Salad:SALAD;false
+MAINCOURSE,Bibimbap,Rice;Beef;Vegetables;Egg,35,12.99,KOREAN,FRIED;Beef;Kimchi:VEGETABLE|Miso Soup:SOUP;false
+MAINCOURSE,Coq au Vin,Chicken;Red Wine;Mushrooms;Onions,60,16.99,FRENCH,BRAISED;Chicken;Mashed Potatoes:STARCHES|French Bread:BREAD;false
+MAINCOURSE,Vegetable Curry,Potatoes;Carrots;Peas;Spices,30,11.49,INDIAN,BOILED;N/A;Naan Bread:BREAD|Basmati Rice:GRAIN;true
+MAINCOURSE,Gnocchi,Potatoes;Flour;Tomato Sauce;Parmesan,30,12.49,ITALIAN,BOILED;N/A;Garlic Bread:BREAD|Side Salad:SALAD;false
+MAINCOURSE,Falafel Wrap,Falafel;Pita Bread;Lettuce;Tahini,20,9.99,MEDITERRANEAN,FRIED;Falafel;Tabbouleh:SALAD|Hummus:LEGUME;true
+MAINCOURSE,Bangers and Mash,Sausages;Potatoes;Onion Gravy;Peas,35,13.49,BRITISH,FRIED;Sausages;Peas:VEGETABLE|Bread Roll:BREAD;false
+MAINCOURSE,Gumbo,Shrimp;Sausage;Okra;Rice,50,14.99,CREOLE,BOILED;Seafood;Cornbread:BREAD|Collard Greens:VEGETABLE;false
+MAINCOURSE,Stuffed Peppers,Bell Peppers;Rice;Ground Beef;Tomato Sauce,45,12.99,MEDITERRANEAN,BAKED;Beef;Side Salad:SALAD|Garlic Bread:BREAD;false
+MAINCOURSE,Enchiladas,Tortillas;Chicken;Cheese;Enchilada Sauce,40,12.49,MEXICAN,BAKED;Chicken;Refried Beans:LEGUME|Mexican Rice:GRAIN;false
+MAINCOURSE,Lentil Soup,Lentils;Vegetables;Spices;Broth,30,9.99,MIDDLE EASTERN,BOILED;N/A;Bread Roll:BREAD|Side Salad:SALAD;true
+MAINCOURSE,Beef Stroganoff,Beef;Mushrooms;Sour Cream;Egg Noodles,40,14.49,RUSSIAN,BOILED;Beef;Breadsticks:BREAD|Side Salad:SALAD;false
+DESSERT,Cheesecake,Cream Cheese;Sugar;Eggs;Graham Cracker Crust,60,6.99,AMERICAN,SWEET;7;false
+DESSERT,Apple Pie,Apples;Flour;Sugar;Butter,50,5.99,AMERICAN,SWEET;6;false
+DESSERT,Gelato,Milk;Sugar;Flavorings,15,4.99,ITALIAN,SWEET;5;false
+DESSERT,Mochi Ice Cream,Rice Flour;Sugar;Ice Cream;Cornstarch,20,5.49,JAPANESE,SWEET;4;false
+DESSERT,Tiramisu,Mascarpone;Coffee;Ladyfingers;Cocoa,30,6.49,ITALIAN,SWEET;6;false
+DESSERT,Baklava,Phyllo Dough;Nuts;Honey;Spices,45,5.99,MEDITERRANEAN,SWEET;8;true
+DESSERT,Pavlova,Egg Whites;Sugar;Fruit;Cream,40,5.99,AUSTRALIAN,SWEET;5;false
+DESSERT,Chocolate Mousse,Chocolate;Cream;Eggs;Sugar,25,5.49,FRENCH,SWEET;7;false
+DESSERT,Churros,Flour;Sugar;Cinnamon;Oil,20,4.99,MEXICAN,SWEET;6;false
+DESSERT,Banana Split,Banana;Ice Cream;Chocolate Sauce;Nuts,10,4.99,AMERICAN,SWEET;8;true
+DESSERT,Lemon Tart,Lemon;Sugar;Eggs;Pastry Crust,35,5.99,FRENCH,SOUR;5;false
+DESSERT,Mango Sticky Rice,Mango;Rice;Coconut Milk;Sugar,25,5.49,THAI,SWEET;6;false
+DESSERT,Black Forest Cake,Chocolate Cake;Cherries;Cream;Kirsch,60,6.99,GERMAN,SWEET;8;false
+DESSERT,Crepes,Flour;Milk;Eggs;Sugar,20,4.99,FRENCH,SWEET;4;false
+DESSERT,Tres Leches Cake,Milk;Eggs;Sugar;Flour,45,5.99,LATIN AMERICAN,SWEET;7;false
+DESSERT,Key Lime Pie,Lime Juice;Eggs;Condensed Milk;Crust,30,5.99,AMERICAN,SOUR;6;false
+DESSERT,Carrot Cake,Carrots;Flour;Sugar;Cream Cheese;Nuts,50,6.49,AMERICAN,SWEET;7;true
+DESSERT,Peach Cobbler,Peaches;Flour;Sugar;Butter,40,5.99,AMERICAN,SWEET;6;false
+DESSERT,Panna Cotta,Cream;Sugar;Gelatin;Vanilla,25,5.49,ITALIAN,SWEET;5;false
+DESSERT,Fruit Salad,Assorted Fruits;Mint;Honey,15,4.99,INTERNATIONAL,SWEET;3;false
+DESSERT,Eclair,Puff Pastry;Cream;Chocolate Glaze,30,5.99,FRENCH,SWEET;6;false
+DESSERT,Brownies,Chocolate;Flour;Sugar;Eggs,25,4.49,AMERICAN,SWEET;7;false
+DESSERT,Macarons,Almond Flour;Sugar;Egg Whites;Cream,35,6.99,FRENCH,SWEET;5;true
+DESSERT,Coconut Cake,Coconut;Flour;Sugar;Eggs,45,5.99,CARIBBEAN,SWEET;7;false
+DESSERT,Sticky Toffee Pudding,Dates;Sugar;Flour;Butter,50,6.49,BRITISH,SWEET;8;false
+DESSERT,Smores,Graham Crackers;Chocolate;Marshmallows,10,3.99,AMERICAN,SWEET;9;false
+DESSERT,Pumpkin Pie,Pumpkin Puree;Eggs;Sugar;Spices,40,5.49,AMERICAN,SWEET;6;false
+DESSERT,Rice Pudding,Rice;Milk;Sugar;Cinnamon,35,4.99,INTERNATIONAL,SWEET;5;false
+DESSERT,Cannoli,Ricotta Cheese;Sugar;Pastry Shells;Chocolate Chips,30,5.99,ITALIAN,SWEET;7;false
+DESSERT,Bread Pudding,Bread;Milk;Eggs;Sugar,45,4.99,BRITISH,SWEET;6;false
+DESSERT,Affogato,Vanilla Ice Cream;Espresso,5,3.99,ITALIAN,BITTER;2;false
+DESSERT,Strawberry Shortcake,Shortcake;Strawberries;Cream;Sugar,25,5.49,AMERICAN,SWEET;6;false
+DESSERT,Opera Cake,Coffee;Chocolate;Almonds;Buttercream,60,6.99,FRENCH,SWEET;8;true
+DESSERT,Tartufo,Ice Cream;Chocolate Shell;Fruit Center,20,5.99,ITALIAN,SWEET;7;false
+DESSERT,Crema Catalana,Milk;Eggs;Sugar;Lemon Zest,30,5.49,SPANISH,SWEET;6;false
+DESSERT,Turkish Delight,Sugar;Cornstarch;Rosewater;Nuts,45,4.99,TURKISH,SWEET;5;true
+DESSERT,Flan,Milk;Eggs;Sugar;Vanilla,35,5.49,SPANISH,SWEET;6;false
+DESSERT,Chocolate Fondant,Chocolate;Eggs;Sugar;Butter,25,5.99,FRENCH,SWEET;8;false
